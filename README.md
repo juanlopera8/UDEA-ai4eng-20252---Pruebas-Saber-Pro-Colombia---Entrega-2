@@ -5,7 +5,7 @@
   **Cédula:** 1025641683  
   **Programa:** Ingenieria Civil
   
-- **Enlace Vídeo:** htpps...
+- **Enlace Vídeo:** htpps
   **Usuario Kaggle:** juanlopera8
 
 
@@ -22,4 +22,3 @@ Este repositorio contiene la **Entrega 2** de la competencia:
 
 
 
-Esta es la entrega 2 del proyecto 
