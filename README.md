@@ -4,8 +4,7 @@
 - **Nombre:** Juan Pablo Lopera Botero  
   **Cédula:** 1025641683  
   **Programa:** Ingenieria Civil
-  
-- **Enlace Vídeo:** htpps
+  **Enlace Vídeo:** htpps
   **Usuario Kaggle:** juanlopera8
 
 
