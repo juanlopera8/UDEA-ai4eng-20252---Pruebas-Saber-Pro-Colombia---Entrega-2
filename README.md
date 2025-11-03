@@ -5,7 +5,7 @@
   **Cédula:** 1025641683  
   **Programa:** Ingenieria Civil
 
-- **Enlace Vídeo:** htpps
+- **Enlace Vídeo:** https://youtu.be/xTE3eAyV00k?si=a4gevE42wUWdXQlL
 - **Usuario Kaggle:** juanlopera8
 
 
